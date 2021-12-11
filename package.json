@@ -1,0 +1,29 @@
+{
+  "name": "goit-node_js",
+  "version": "1.0.0",
+  "description": "goit-node_js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rost-Perig/goit-node_js.git"
+  },
+  "keywords": [],
+  "author": "Rost Perig, rost.perig@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rost-Perig/goit-node_js/issues"
+  },
+  "homepage": "https://github.com/Rost-Perig/goit-node_js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.3.0"
+  }
+}
